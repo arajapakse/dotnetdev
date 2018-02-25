@@ -1,0 +1,11 @@
+g:\tutorials\PizzaLoversDemo\PizzaLoversWebsite\bin\Debug\netcoreapp2.0\PizzaLoversWebsite.deps.json
+g:\tutorials\PizzaLoversDemo\PizzaLoversWebsite\bin\Debug\netcoreapp2.0\PizzaLoversWebsite.runtimeconfig.json
+g:\tutorials\PizzaLoversDemo\PizzaLoversWebsite\bin\Debug\netcoreapp2.0\PizzaLoversWebsite.runtimeconfig.dev.json
+g:\tutorials\PizzaLoversDemo\PizzaLoversWebsite\bin\Debug\netcoreapp2.0\PizzaLoversWebsite.dll
+g:\tutorials\PizzaLoversDemo\PizzaLoversWebsite\bin\Debug\netcoreapp2.0\PizzaLoversWebsite.pdb
+g:\tutorials\PizzaLoversDemo\PizzaLoversWebsite\obj\Debug\netcoreapp2.0\PizzaLoversWebsite.csprojResolveAssemblyReference.cache
+g:\tutorials\PizzaLoversDemo\PizzaLoversWebsite\obj\Debug\netcoreapp2.0\PizzaLoversWebsite.csproj.CoreCompileInputs.cache
+g:\tutorials\PizzaLoversDemo\PizzaLoversWebsite\obj\Debug\netcoreapp2.0\PizzaLoversWebsite.AssemblyInfoInputs.cache
+g:\tutorials\PizzaLoversDemo\PizzaLoversWebsite\obj\Debug\netcoreapp2.0\PizzaLoversWebsite.AssemblyInfo.cs
+g:\tutorials\PizzaLoversDemo\PizzaLoversWebsite\obj\Debug\netcoreapp2.0\PizzaLoversWebsite.dll
+g:\tutorials\PizzaLoversDemo\PizzaLoversWebsite\obj\Debug\netcoreapp2.0\PizzaLoversWebsite.pdb
