@@ -21,16 +21,16 @@
   },
   "targets": {
     ".NETCoreApp,Version=v2.0": {
-      "PizzaLoversApi/1.0.0": {
+      "PizzaLoversDemo2/1.0.0": {
         "dependencies": {
           "Microsoft.AspNetCore.All": "2.0.0",
           "Microsoft.NETCore.App": "2.0.0"
         },
         "runtime": {
-          "PizzaLoversApi.dll": {}
+          "PizzaLoversDemo2.dll": {}
         },
         "compile": {
-          "PizzaLoversApi.dll": {}
+          "PizzaLoversDemo2.dll": {}
         }
       },
       "Libuv/1.10.0": {
@@ -3973,7 +3973,7 @@
     }
   },
   "libraries": {
-    "PizzaLoversApi/1.0.0": {
+    "PizzaLoversDemo2/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

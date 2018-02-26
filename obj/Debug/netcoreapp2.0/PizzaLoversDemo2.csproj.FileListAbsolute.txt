@@ -1,0 +1,10 @@
+G:\tutorials\PizzaLoversDemo2\bin\Debug\netcoreapp2.0\PizzaLoversDemo2.deps.json
+G:\tutorials\PizzaLoversDemo2\bin\Debug\netcoreapp2.0\PizzaLoversDemo2.runtimeconfig.json
+G:\tutorials\PizzaLoversDemo2\bin\Debug\netcoreapp2.0\PizzaLoversDemo2.runtimeconfig.dev.json
+G:\tutorials\PizzaLoversDemo2\bin\Debug\netcoreapp2.0\PizzaLoversDemo2.dll
+G:\tutorials\PizzaLoversDemo2\bin\Debug\netcoreapp2.0\PizzaLoversDemo2.pdb
+G:\tutorials\PizzaLoversDemo2\obj\Debug\netcoreapp2.0\PizzaLoversDemo2.csproj.CoreCompileInputs.cache
+G:\tutorials\PizzaLoversDemo2\obj\Debug\netcoreapp2.0\PizzaLoversDemo2.AssemblyInfoInputs.cache
+G:\tutorials\PizzaLoversDemo2\obj\Debug\netcoreapp2.0\PizzaLoversDemo2.AssemblyInfo.cs
+G:\tutorials\PizzaLoversDemo2\obj\Debug\netcoreapp2.0\PizzaLoversDemo2.dll
+G:\tutorials\PizzaLoversDemo2\obj\Debug\netcoreapp2.0\PizzaLoversDemo2.pdb

@@ -9,7 +9,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
 
-namespace PizzaLoversApi
+namespace PizzaLoversDemo2
 {
     public class Startup
     {

@@ -12538,15 +12538,12 @@
   },
   "project": {
     "version": "1.0.0",
-    "restoreSettings": {
-      "hideWarningsAndErrors": true
-    },
     "restore": {
-      "projectUniqueName": "g:\\tutorials\\PizzaLoversDemo\\PizzaLoversApi\\PizzaLoversApi.csproj",
-      "projectName": "PizzaLoversApi",
-      "projectPath": "g:\\tutorials\\PizzaLoversDemo\\PizzaLoversApi\\PizzaLoversApi.csproj",
+      "projectUniqueName": "G:\\tutorials\\PizzaLoversDemo2\\PizzaLoversDemo2.csproj",
+      "projectName": "PizzaLoversDemo2",
+      "projectPath": "G:\\tutorials\\PizzaLoversDemo2\\PizzaLoversDemo2.csproj",
       "packagesPath": "C:\\Users\\arajapakse\\.nuget\\packages\\",
-      "outputPath": "g:\\tutorials\\PizzaLoversDemo\\PizzaLoversApi\\obj\\",
+      "outputPath": "G:\\tutorials\\PizzaLoversDemo2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -12560,6 +12557,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "http://ssnj-nuget01.billtrust.local/NuGet/nuget": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
